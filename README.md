@@ -16,24 +16,7 @@ During natural disasters, cellular networks and internet services often become u
 - 🗺️ Live emergency dashboard for rescue teams
 - ⚡ Designed for disaster and emergency situations
 
-## 🛠️ Tech Stack
 
-### Mobile
-- Flutter
-- Bluetooth Low Energy (BLE)
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Dashboard
-- React.js
-
-### Maps
-- Google Maps API
 
 ## 🚀 How It Works
 
